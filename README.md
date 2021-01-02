@@ -1,6 +1,11 @@
 ![Linux shell核心编程指南](https://gitee.com/redhatedu/shellscripts/blob/master/cover/cover.jpg "Linux shell核心编程指南")
-</br>
+
 图书《Linux Shell核心编程指南》的素材脚本。
+
+https://item.jd.com/12592975.html
+http://product.dangdang.com/28486358.html
+https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.1.7dab1509puIKRZ&id=616094544025&user_id=1932014659&cat_id=2&is_b=1&rn=734790cbd3608accaa8ccb97453a42e6
+
 
 《Linux Shell Scripts manual》 materials.
 
