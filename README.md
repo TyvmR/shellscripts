@@ -1,4 +1,4 @@
- ![image](https://gitee.com/redhatedu/shellscripts/blob/master/cover/cover.jpg)</br>
+![Linux shell核心编程指南](https://gitee.com/redhatedu/shellscripts/blob/master/cover/cover.jpg "在这里输入图片标题")
 图书《Linux Shell核心编程指南》的素材脚本。
 
 《Linux Shell Scripts manual》 materials.
